@@ -1,0 +1,11 @@
+.source {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.source span {
+  font-size: 13px;
+  line-height: 0;
+}
